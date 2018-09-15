@@ -14,3 +14,6 @@
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('creditSuisseTest', 'HomeController@creditSuisseTest');
+Route::post('creditSuisse', 'HomeController@creditSuisse');
