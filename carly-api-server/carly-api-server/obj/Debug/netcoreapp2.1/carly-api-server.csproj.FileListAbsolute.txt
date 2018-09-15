@@ -1,0 +1,13 @@
+G:\Programmieren\C#\Carly\Carly-HackZurich2018\carly-api-server\carly-api-server\bin\Debug\netcoreapp2.1\carly-api-server.deps.json
+G:\Programmieren\C#\Carly\Carly-HackZurich2018\carly-api-server\carly-api-server\bin\Debug\netcoreapp2.1\carly-api-server.runtimeconfig.json
+G:\Programmieren\C#\Carly\Carly-HackZurich2018\carly-api-server\carly-api-server\bin\Debug\netcoreapp2.1\carly-api-server.runtimeconfig.dev.json
+G:\Programmieren\C#\Carly\Carly-HackZurich2018\carly-api-server\carly-api-server\bin\Debug\netcoreapp2.1\carly-api-server.dll
+G:\Programmieren\C#\Carly\Carly-HackZurich2018\carly-api-server\carly-api-server\bin\Debug\netcoreapp2.1\carly-api-server.pdb
+G:\Programmieren\C#\Carly\Carly-HackZurich2018\carly-api-server\carly-api-server\obj\Debug\netcoreapp2.1\carly-api-server.csproj.CoreCompileInputs.cache
+G:\Programmieren\C#\Carly\Carly-HackZurich2018\carly-api-server\carly-api-server\obj\Debug\netcoreapp2.1\carly-api-server.RazorAssemblyInfo.cache
+G:\Programmieren\C#\Carly\Carly-HackZurich2018\carly-api-server\carly-api-server\obj\Debug\netcoreapp2.1\carly-api-server.RazorAssemblyInfo.cs
+G:\Programmieren\C#\Carly\Carly-HackZurich2018\carly-api-server\carly-api-server\obj\Debug\netcoreapp2.1\carly-api-server.AssemblyInfoInputs.cache
+G:\Programmieren\C#\Carly\Carly-HackZurich2018\carly-api-server\carly-api-server\obj\Debug\netcoreapp2.1\carly-api-server.AssemblyInfo.cs
+G:\Programmieren\C#\Carly\Carly-HackZurich2018\carly-api-server\carly-api-server\obj\Debug\netcoreapp2.1\carly-api-server.RazorTargetAssemblyInfo.cache
+G:\Programmieren\C#\Carly\Carly-HackZurich2018\carly-api-server\carly-api-server\obj\Debug\netcoreapp2.1\carly-api-server.dll
+G:\Programmieren\C#\Carly\Carly-HackZurich2018\carly-api-server\carly-api-server\obj\Debug\netcoreapp2.1\carly-api-server.pdb
