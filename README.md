@@ -1,5 +1,5 @@
 # Carly-HackZurich2018
-Carly – introduces the car configurator of the future
+Carly – Introducing the car configurator of the future 
 
 ![alt text](https://menux.org/images/Carly-Logo-blau.png "Carly – Future car configurator mobile app")
 
@@ -18,14 +18,14 @@ We used the AMAG API to get data from from the different vehicles, which are cur
 
 ## Credit Suisse API
 
-We created a new user on the Credit Suisse API and added a new customer. We added a KYC and can now request the banking information via the "SearchByName" endpoint. We get the usertype, which in our case is a student. We also get the anual income, anual spending, marital status, total wealth, number of kids and number of car. This data is used inside the app to calculate the money the user has to pay monthly to get the car financed. The user also see's how he does compared to his peers and what impact his financial decision has. 
+We created a new user on the Credit Suisse API and added a new customer. We added a KYC and can now request the banking information via the "SearchByName" endpoint. We get the usertype, which in our case is a student. We also get the anual income, anual spending, marital status, total wealth, number of kids and number of car. This data is used inside the app to calculate the money the user has to pay monthly to get the car financed. The user also see's how he does compared to his peers and what impact his financial decision has.
 
 ## Business
 
 In the business folder you find the slide deck for the pitch presentation at Hack Zurich. We keept that really short as we think a demo is much better than just power point slides.
 
 
-# Licence 
+# Licence
 
 Copyright 2018 Carly – HackZurich Hacker Team
 
