@@ -6,7 +6,7 @@ using System.Drawing;
 using System.IO;
 using System.Drawing.Imaging;
 
-namespace AmagAPIServer
+namespace carlyapiserver
 {
     public class ChartGen
     {

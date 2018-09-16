@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
-namespace AmagAPIServer.Controllers
+namespace carlyapiserver.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

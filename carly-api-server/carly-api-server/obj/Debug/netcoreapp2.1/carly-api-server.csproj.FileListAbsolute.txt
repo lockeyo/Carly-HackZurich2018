@@ -11,3 +11,4 @@ G:\Programmieren\C#\Carly\Carly-HackZurich2018\carly-api-server\carly-api-server
 G:\Programmieren\C#\Carly\Carly-HackZurich2018\carly-api-server\carly-api-server\obj\Debug\netcoreapp2.1\carly-api-server.RazorTargetAssemblyInfo.cache
 G:\Programmieren\C#\Carly\Carly-HackZurich2018\carly-api-server\carly-api-server\obj\Debug\netcoreapp2.1\carly-api-server.dll
 G:\Programmieren\C#\Carly\Carly-HackZurich2018\carly-api-server\carly-api-server\obj\Debug\netcoreapp2.1\carly-api-server.pdb
+G:\Programmieren\C#\Carly\Carly-HackZurich2018\carly-api-server\carly-api-server\obj\Debug\netcoreapp2.1\carly-api-server.csprojAssemblyReference.cache

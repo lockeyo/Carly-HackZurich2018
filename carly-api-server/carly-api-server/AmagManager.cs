@@ -6,7 +6,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace AmagAPIServer
+namespace carlyapiserver
 {
     public class AmagManager
     {

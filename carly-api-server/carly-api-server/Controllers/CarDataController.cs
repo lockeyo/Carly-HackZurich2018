@@ -2,24 +2,25 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using carlyapiserver.Volkswagen;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
 
-namespace AmagAPIServer.Controllers
+namespace carlyapiserver.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
     public class CarDataController : ControllerBase
     {
-        [HttpGet("{model}")]
+        [HttpGet("getCarInfo/{model}")]
         public ActionResult<IEnumerable<string>> Get(string model)
         {
             if (model == null)
                 return new string[] { "wrong parameter" };
 
-            if(model.Equals("Golf6"))
-                return new string[] { "Colors: Green, Red, Yellow" };
+            if(model.Equals("Der Golf"))
+                return new string[] { Golf.generateBaseInfo() };
 
             return new string[] { "unknown model" };
         }
@@ -32,6 +33,12 @@ namespace AmagAPIServer.Controllers
                 return new string[] { "Api is not initilized" };
 
             return new string[] { JsonConvert.SerializeObject(carDetails) };
+        }
+
+        [HttpGet("getWheelList/")]
+        public ActionResult<IEnumerable<string>> GetWheelList()
+        {
+            return new string[] { Wheels.generateBaseInfo() };
         }
     }
 }
