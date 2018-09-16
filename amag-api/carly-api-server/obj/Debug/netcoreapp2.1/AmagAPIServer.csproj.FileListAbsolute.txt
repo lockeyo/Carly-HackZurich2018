@@ -1,0 +1,14 @@
+G:\Programmieren\C#\AmagAPIServer\AmagAPIServer\bin\Debug\netcoreapp2.1\AmagAPIServer.deps.json
+G:\Programmieren\C#\AmagAPIServer\AmagAPIServer\bin\Debug\netcoreapp2.1\AmagAPIServer.runtimeconfig.json
+G:\Programmieren\C#\AmagAPIServer\AmagAPIServer\bin\Debug\netcoreapp2.1\AmagAPIServer.runtimeconfig.dev.json
+G:\Programmieren\C#\AmagAPIServer\AmagAPIServer\bin\Debug\netcoreapp2.1\AmagAPIServer.dll
+G:\Programmieren\C#\AmagAPIServer\AmagAPIServer\bin\Debug\netcoreapp2.1\AmagAPIServer.pdb
+G:\Programmieren\C#\AmagAPIServer\AmagAPIServer\obj\Debug\netcoreapp2.1\AmagAPIServer.csproj.CoreCompileInputs.cache
+G:\Programmieren\C#\AmagAPIServer\AmagAPIServer\obj\Debug\netcoreapp2.1\AmagAPIServer.RazorAssemblyInfo.cache
+G:\Programmieren\C#\AmagAPIServer\AmagAPIServer\obj\Debug\netcoreapp2.1\AmagAPIServer.RazorAssemblyInfo.cs
+G:\Programmieren\C#\AmagAPIServer\AmagAPIServer\obj\Debug\netcoreapp2.1\AmagAPIServer.AssemblyInfoInputs.cache
+G:\Programmieren\C#\AmagAPIServer\AmagAPIServer\obj\Debug\netcoreapp2.1\AmagAPIServer.AssemblyInfo.cs
+G:\Programmieren\C#\AmagAPIServer\AmagAPIServer\obj\Debug\netcoreapp2.1\AmagAPIServer.RazorTargetAssemblyInfo.cache
+G:\Programmieren\C#\AmagAPIServer\AmagAPIServer\obj\Debug\netcoreapp2.1\AmagAPIServer.dll
+G:\Programmieren\C#\AmagAPIServer\AmagAPIServer\obj\Debug\netcoreapp2.1\AmagAPIServer.pdb
+G:\Programmieren\C#\AmagAPIServer\AmagAPIServer\obj\Debug\netcoreapp2.1\AmagAPIServer.csprojAssemblyReference.cache
